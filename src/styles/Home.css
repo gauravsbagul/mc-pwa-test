@@ -1,0 +1,33 @@
+.restCard {
+    box-shadow: 2px 2px 4px 5px #ccc;
+    cursor: pointer;
+}
+
+.restCard .restName {
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.restCard .time {
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.restCard .offer {
+    color: rgb(114, 28, 114);
+}
+
+.restCard .totalCards {
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.restCard .rewardsHeading {
+    font-weight: 500;
+    color: white;
+    font-size: 18px;
+}
+
+.restCard .rewardsDetails {
+    font-weight: 500;
+}

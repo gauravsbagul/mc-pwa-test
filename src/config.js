@@ -1,0 +1,1 @@
+export const BASE_URL = 'http://menucart-env.eba-tqa82n5i.us-east-2.elasticbeanstalk.com/api/';

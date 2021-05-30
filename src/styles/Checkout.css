@@ -1,0 +1,90 @@
+.checkout .restaurantName {
+    font-size: 24px;
+    font-weight: 700;
+    color: #5D5555
+}
+
+.checkout .peopleEnjoyThis {
+    background: linear-gradient(180deg, rgba(166, 255, 164, 0.27) 100%, rgba(215, 255, 239, 0.64) 0%);
+}
+
+.checkout .peopleEnjoyThis .heading {
+    color: #8E939B;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.checkout .peopleEnjoyThis .PETItemsCards {
+    display: flex;
+    overflow: scroll;
+    height: 100px;
+}
+
+.checkout .PETItemCard {
+    height: 65px;
+    box-shadow: 2px 2px 4px 5px #ccc;
+    background: #f0f0f0;
+}
+
+.checkout .PETItemCard .menuImage {
+    height: 65px;
+    width: 90px;
+}
+
+.checkout .PETItemCard .details .name {
+    font-weight: 500;
+}
+
+.checkout .PETItemCard .details {
+    width: max-content;
+}
+
+.checkout .PETItemCard .addButton {
+    cursor: pointer;
+    height: 35px;
+    width: 35px;
+    margin: 15px 12px 15px 15px;
+}
+
+.checkout .bill {
+    color: #212C3A;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    line-height: 19px;
+    font-weight: 500;
+}
+
+.checkout .reward {
+    box-shadow: 2px 2px 4px 5px #ccc;
+    background: linear-gradient(180deg, rgba(166, 255, 164, 0.27) 100%, rgba(215, 255, 239, 0.64) 0%);
+}
+
+.checkout .reward .addButton {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 7px 3px;
+}
+
+.checkout .reward .name {
+    color: #212C3A;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.checkout .getPoints {
+    color: #ec8a8a;
+    border: 3px solid #ec8a8a;
+    box-shadow: 2px 2px 6px 0 #ec8a8a;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.checkout .payButton button {
+    background: rgba(0, 204, 0, 0.548);
+    cursor: pointer;
+    padding: 5px 15px;
+    border-radius: 55px;
+    font-size: 14px;
+    font-weight: 500;
+}
